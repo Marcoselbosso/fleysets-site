@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>FullScreen</key>
+			<true/>
+			<key>Icon</key>
+			<data>
+			iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAYAAAA9zQYyAAAC9UlE
+			QVR4nO3csY0UQRBA0bnTZbGYKzykM4iEYAiCYIgEDw9hQhoc1jpn
+			z1avfr+XwM6qvkrTxvTT5fr6dkDE8+oHgDMJmhRBkyJoUgRNiqBJ
+			ETQpgiZF0KQImhRBkyJoUgRNiqBJETQpgiZF0KQImhRBkyJoUgRN
+			iqBJETQpgiblZfUD/Pz3e/UjcLJPz9dlv70saCF33Wa7IuzxoIW8
+			jxVhj75Di3lPk3N3KCRlLGjbeW9T87ehSRkJ2nbmOGY6sKFJETQp
+			giZF0KQImhRBkyJoUgRNiqBJETQpgiZF0KQImhRBkzIS9MqvgHkc
+			Ex3Y0KSMBW1L721q/jY0KaNB29J7mpz7+EUztz/nO8O+LW5OuhF2
+			15Z32914DeFMDoWkCJoUQZMiaFIETYqgSRE0KYImRdCkCJoUQZMi
+			aFIETYqgSRE0KYImRdCkCJoUQZMiaFIETcryr77//Pi4+hE42YfP
+			v5b99tPl+vq24oeF3Lci7PGghbyfybBH36HFvKfJuTsUkjIWtO28
+			t6n529CkjARtO3McMx3Y0KQImhRBkyJoUgRNiqBJETQpgiZF0KQI
+			mhRBkyJoUgRNiqBJGQl65VfAPI6JDmxoUsaCtqX3NjV/G5qU0aBt
+			6T1Nzt3NSdzNFjcnvSfsni3vtoN7cCgkRdCkCJoUQZMiaFIETYqg
+			SRE0KYImRdCkCJoUQZMiaFIETYqgSRE0KYImRdCkCJoUQZMiaFJe
+			Vj/A3y/fVj8CJ7t8/7rst5ddYyDkvhVhjwct5P1Mhj36Di3mPU3O
+			3aGQlLGgbee9Tc3fhiZlJGjbmeOY6cCGJkXQpAiaFEGTImhSBE2K
+			oEkRNCmCJkXQpAiaFEGTImhSBE3KSNArvwLmcUx0YEOTMha0Lb23
+			qfnb0KSMBm1L72ly7m5O4m62uDnpPWH3bHm3HdyDQyEpgiZF0KQI
+			mhRBkyJoUgRNiqBJETQpgiZF0KQImhRBkyJoUgRNiqBJETQpgiZF
+			0KQImhRBkyJoUgRNyn+29Hp7W/rN1QAAAABJRU5ErkJggg==
+			</data>
+			<key>IsRemovable</key>
+			<true/>
+			<key>Label</key>
+			<string>Espace équipe</string>
+			<key>PayloadDisplayName</key>
+			<string>Espace équipe</string>
+			<key>PayloadIdentifier</key>
+			<string>fr.fleysets.planning.webclip</string>
+			<key>PayloadOrganization</key>
+			<string>Cabinet Infirmier des Fleysets</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>76BB4094-C57F-5833-9635-AA85538C2713</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string>https://marcoselbosso.github.io/fleysets-site/</string>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Mes jours — Caroline</string>
+			<key>PayloadIdentifier</key>
+			<string>fr.fleysets.planning.cal.mes-jours-caroline</string>
+			<key>PayloadOrganization</key>
+			<string>Cabinet Infirmier des Fleysets</string>
+			<key>PayloadType</key>
+			<string>com.apple.subscribedcalendar.account</string>
+			<key>PayloadUUID</key>
+			<string>F5ABFD83-9DA1-51FE-9D6C-E53908FE7941</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SubCalAccountDescription</key>
+			<string>Mes jours — Caroline</string>
+			<key>SubCalAccountHostName</key>
+			<string>https://marcoselbosso.github.io/fleysets-site/cal/4fa409db3f632dbf3126023d/mes-jours-caroline.ics</string>
+			<key>SubCalAccountUseSSL</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Cabinet Fleysets</string>
+			<key>PayloadIdentifier</key>
+			<string>fr.fleysets.planning.cal.cabinet</string>
+			<key>PayloadOrganization</key>
+			<string>Cabinet Infirmier des Fleysets</string>
+			<key>PayloadType</key>
+			<string>com.apple.subscribedcalendar.account</string>
+			<key>PayloadUUID</key>
+			<string>E1B071A8-DA20-5DAF-91C9-15D201F3D1A5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SubCalAccountDescription</key>
+			<string>Cabinet Fleysets</string>
+			<key>SubCalAccountHostName</key>
+			<string>https://marcoselbosso.github.io/fleysets-site/cal/4fa409db3f632dbf3126023d/cabinet.ics</string>
+			<key>SubCalAccountUseSSL</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Planning de l’équipe, vos jours de tournée dans votre agenda, et l’agenda Cabinet (réunions, stagiaires).</string>
+	<key>PayloadDisplayName</key>
+	<string>Planning Fleysets — Caroline</string>
+	<key>PayloadIdentifier</key>
+	<string>fr.fleysets.planning.mes-jours-caroline</string>
+	<key>PayloadOrganization</key>
+	<string>Cabinet Infirmier des Fleysets</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3DAAEF19-DAD2-51A4-A5F7-13957845FCFB</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
